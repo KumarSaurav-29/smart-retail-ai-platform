@@ -12,6 +12,22 @@ The platform integrates multiple AI domains into a single backend application, i
 
 ---
 
+# 🎥 Project Demonstration
+
+A short demonstration video showcasing the working application is included in this repository.
+
+📁 **Location:** `demo/demo.mp4`
+
+The demonstration highlights:
+
+- Product Image Classification
+- Face Recognition
+- Sentiment Analysis
+- AI Chatbot
+- FastAPI Backend
+
+---
+
 # 🚀 Key Features
 
 ## 🖼️ Computer Vision
